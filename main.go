@@ -1,12 +1,7 @@
 package main
 
-//import "MyProj/functions"
-
-import (
-	"fmt"
-	"functions"
-)
+import "fmt"
 
 func main() {
-	fmt.Println(functions.GetValue())
+	fmt.Printf("hello, world\n")
 }
